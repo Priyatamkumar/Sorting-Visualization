@@ -31,7 +31,7 @@ After sorting
 
 # Demo
 
-[Check out the website here]()
+[Check out the website here](https://priyatamkumar.github.io/Sorting-Visualization/)
 
 # Usage
 

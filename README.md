@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualization
 
-Table of Contents
+# Table of Contents
 - Introduction
 - Features
 - Demo
